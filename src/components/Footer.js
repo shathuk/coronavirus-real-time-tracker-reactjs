@@ -49,7 +49,7 @@ function Footer() {
             href='https://www.arcgis.com/'
             target='_blank'
             rel='noopener noreferrer'
-          >
+          
             ArcGIS API
           </a>
         </div>
